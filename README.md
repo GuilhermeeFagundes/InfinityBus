@@ -13,6 +13,7 @@ Criamos um protótipo interativo com as telas do aplicativo, destacando as princ
 
 ![Protótipo InfinityBus](Protótipo-Figma-Telas-InfinityBus.png)  
 [🔗 Acesse o Protótipo Interativo](https://www.figma.com/proto/5rgzVCbHPrEZC3SusK8kED/Telas-InfinityBus?node-id=1-1441&t=wLl1JMPz0oqMr43l-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A1441&show-proto-sidebar=1)
+´´´
 [🔗 Acesse o Arquivo de Design](https://www.figma.com/design/5rgzVCbHPrEZC3SusK8kED/Telas-InfinityBus?node-id=0-1&t=1MzNcv1tv9T6fXK4-1)
 
 ## Diagrama de Caso de Uso
