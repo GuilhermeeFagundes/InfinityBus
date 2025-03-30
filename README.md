@@ -11,7 +11,7 @@ Este projeto faz parte de um exercício acadêmico onde desenvolvemos um sistema
 
 Criamos um protótipo interativo com as telas do aplicativo, destacando as principais funcionalidades do sistema.
 
-![Protótipo InfinityBus](Protótipo Figma - Telas InfinityBus.png)  
+![Protótipo InfinityBus](Protótipo-Figma-Telas-InfinityBus.png)  
 [🔗 Acesse o Protótipo Interativo](https://www.figma.com/proto/5rgzVCbHPrEZC3SusK8kED/Telas-InfinityBus?node-id=1-1441&t=wLl1JMPz0oqMr43l-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A1441&show-proto-sidebar=1)
 [🔗 Acesse o Arquivo de Design](https://www.figma.com/design/5rgzVCbHPrEZC3SusK8kED/Telas-InfinityBus?node-id=0-1&t=1MzNcv1tv9T6fXK4-1)
 
@@ -26,6 +26,6 @@ O diagrama de caso de uso foi desenvolvido no *Lucidchart*, detalhando os atores
 
 A apresentação do projeto foi elaborada no *Canva*, explicando os detalhes do sistema e suas funcionalidades.
 
-![Apresentação InfinityBus](Slides Canva - Telas InfinityBus.png)  
+![Apresentação InfinityBus](Slides-Canva-Telas-InfinityBus.png)  
 [🔗 Acesse a Apresentação](https://www.canva.com/design/DAGhkKnwtdQ/gUxRj45d7RVBw0MHlzl9TA/view?utm_content=DAGhkKnwtdQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha9bbe31567)
 
