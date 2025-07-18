@@ -5,7 +5,7 @@ Este projeto faz parte de um exercício acadêmico onde desenvolvemos um sistema
 
 ## Sobre o Projeto
 
-Este projeto faz parte de um exercício acadêmico onde desenvolvemos um sistema de vendas de passagens de ônibus online para a empresa *InfinityBus*. O projeto inclui um diagrama de casos de uso, um protótipo interativo no Figma e uma apresentação explicativa.
+Este projeto faz parte de um exercício acadêmico onde desenvolvemos um protótipo de um sistema de vendas de passagens de ônibus online para a empresa *InfinityBus*. O projeto inclui um diagrama de casos de uso, um protótipo interativo no Figma e uma apresentação explicativa.
 
 ## Protótipo no Figma
 
